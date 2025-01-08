@@ -116,55 +116,58 @@ import {
   const experiences = [
     {
       title: "Front-end Developer",
-      company_name: "Red Fibre",
+      company_name: "@Artsy Technology Pvt Ltd.",
       
       iconBg: "#383E56",
-      date: "July 2023 – Sep 2023",
+      date: "Jul 2024 - Nov 2024",
       points: [
-        " As a Front-end Developer at Red Fibre, I developed and maintained web applications using HTML, CSS, and JavaScript.",
-        "I collaborated with designers and back-end developers to enhance user experience, implemented responsive design",
-        "Optimized website performance, increasing load speed by 20 percent.",
+        "Worked with clients and stakeholders to design and implement responsive, user-centric websites using React, ensuring seamless navigation and accessibility.",
+        "Improved and integrated features like CMS and APIs optimizing performance for speed, security, and cross-device compatibility.",
+        "Provided post-launch support, including maintenance, feature updates, and performance enhancements to meet evolving user and business needs.",
         
       ],
     },
-    {
-      title: "Cloud Computing-AWS",
-      company_name: "Tech-Trunk Ventures ",
-      icon: tesla,
+        {
+      title: "FreeLancer",
+      company_name: "Tiqva | UK",
+      icon: meta,
       iconBg: "#E6DEDD",
-      date: "Oct 2022 - Dec 2022",
+      date: "Feb 2024 - Jun 2024",
       points: [
-        " Designed, deployed, and managed scalable cloud infrastructure using AWS services like EC2, S3, RDS and Lambda.",
-        "I automated deployments with CloudFormation, integrated cloud solutions with development teams and ensured security best practices.",
-        "Also monitored and resolved infrastructure issues to maintain high availability",
-       
+        "Implemented MVPs (Minimum Viable Products) for clients, including interactive dashboards, e-Commerce solutions, and user authentication systems, allowing efficient idea validation.",
+        "Contributed with a company’s engineering team to maintain and improve platform performance by implementing new features such as dynamic forms, responsive layouts, real-time data updates using Web Sockets, and optimized API integrations.",
+        "Supported individuals in building side projects, providing guidance on best practices for React, state management (e.g., Redux or Context API), and component re-usability to enhance project quality and scalability",
       ],
     },
-    {
+
+       {
       title: "Frontend Developer",
       company_name: "Null Class",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - April 2022",
+      date: "Oct 2023 - Dec 2023",
       points: [
         "Enhanced the initial project by adding new features.",
         "Encouraged self-reliance and problem-solving",
         "Implemented an OTP feature with Twilio, worked perfectly in the development environment.",
       ],
     },
+      
     {
-      title: "FreeLancer",
-      company_name: "Tiqva | UK",
-      icon: meta,
+      title: "Cloud Computing-AWS",
+      company_name: "Tech-Trunk Ventures ",
+      icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Sept 2021 - Dec 2021",
+      date: "Jul 2023 - Sep 2023",
       points: [
-        "Developed and maintained responsive web applications using modern JavaScript frameworks like React and Node.js.",
-        "Integrated third-party APIs to enhance functionality, including payment gateways and social media features.",
-        "Implemented automated testing and debugging processes to improve product reliability.",
-        "Delivered projects within tight deadlines, managing multiple priorities and ensuring high client satisfaction.",
+        "Designed, deployed, and managed scalable cloud infrastructure using AWS services like EC2, S3, RDS and Lambda.",
+        "I automated deployments with CloudFormation, integrated cloud solutions with development teams and ensured security best practices.",
+        "Also monitored and resolved infrastructure issues to maintain high availability",
+       
       ],
     },
+   
+  
   ];
   
   const testimonials = [
